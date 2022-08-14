@@ -1,0 +1,6 @@
+appName: myfirstproject # can be changed as needed
+imageName: localhost:5000/testimage:v2 # should be changed as per image in local-registry
+replicas: 2 # can be changed as needed
+serviceName: myfirstproject-svc # can be changed as needed
+sourcePort: 80
+hostName: myfirstproject.com # can be changed. Should be added in /etc/hosts.

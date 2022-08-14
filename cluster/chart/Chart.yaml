@@ -1,0 +1,5 @@
+apiVersion: v2 
+name: myfirstproject # can be changed as needed
+version: 1.0.0 # can be changed as needed
+deprecated: false
+appVersion: 1.0.0 # can be changed as needed
